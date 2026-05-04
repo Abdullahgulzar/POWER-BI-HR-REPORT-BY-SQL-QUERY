@@ -35,7 +35,7 @@ Raw HR Data → **SQL Cleaning & Transformation** → Export CSV → **Power BI 
 
 ## 📸 Dashboard Preview
 
-![HR Report Dashboard](./your-screenshot-filename.png)
+![HR Report Dashboard](https://github.com/Abdullahgulzar/POWER-BI-HR-REPORT-BY-SQL-QUERY-/blob/main/Screenshot%202026-05-04%20234552.png)
 
 ## 👤 Author
 
